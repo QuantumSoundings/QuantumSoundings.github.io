@@ -14,7 +14,7 @@ Honestly I think the part that I liked the least about the class was the weekly 
 Probably working as a team to get things done.
 
 ### What's the most significant thing you learned?
-I learned to better work as a team. It is such an immensiely important skill that I'm glad I got the chance to work on it. Aside from that I became really comfortable writing python this semester s
+I learned to better work as a team. It is such an immensiely important skill that I'm glad I got the chance to work on it. Aside from that I became really comfortable writing python this semester so that's nice.
 
 ### How many hours a week did you spend coding for this class?
 It really varied week by week, but if I had to take a guess it would be between 2-5 most weeks and up to 10 the week a project was due.
